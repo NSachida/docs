@@ -10,7 +10,7 @@ versions:
 
 ### About pull request reviews
 
-After a pull request is opened, anyone with *read* access can review and comment on the changes it proposes. You can also suggest specific changes to lines of code, which the author can apply directly from the pull request. For more information, see "[Reviewing proposed changes in a pull request](/articles/reviewing-proposed-changes-in-a-pull-request)."
+After a pull request is opened, anyone with or without *read* access can review and comment on the changes it proposes. You can also suggest specific changes to lines of code, which the author can apply directly from the pull request. For more information, see "[Reviewing proposed changes in a pull request](/articles/reviewing-proposed-changes-in-a-pull-request)."
 
 Repository owners and collaborators can request a pull request review from a specific person. Organization members can also request a pull request review from a team with read access to the repository. For more information, see "[Requesting a pull request review](/articles/requesting-a-pull-request-review)." {% if currentVersion == "free-pro-team@latest" or currentVersion ver_gt "enterprise-server@2.19" %}You can specify a subset of team members to be automatically assigned in the place of the whole team. For more information, see "[Managing code review assignment for your team](/github/setting-up-and-managing-organizations-and-teams/managing-code-review-assignment-for-your-team)."{% endif %}
 
