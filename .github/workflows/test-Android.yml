@@ -12,7 +12,7 @@ env:
 
 jobs:
   lint:
-    runs-on: windows-latest
+    runs-on: Android-latest
     steps:
       - name: Check out repo
         uses: actions/checkout@a81bbbf8298c0fa03ea29cdc473d45769f953675
